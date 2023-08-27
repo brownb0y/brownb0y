@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brownb0y
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me email, or discord
 
 <!---
